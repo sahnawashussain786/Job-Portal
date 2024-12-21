@@ -2,7 +2,7 @@
 import React from 'react'
 import {Routes, Route} from 'react-router-dom';
 import Home from './pages/Home';
-import Application from './pages/Application';
+import Application from './pages/Applications';
 import ApplyJob from './pages/ApplyJob';
 
 const App = () => {

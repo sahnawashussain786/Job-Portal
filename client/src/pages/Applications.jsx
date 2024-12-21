@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 
-const Application = () => {
+const Applications = () => {
   return (
     <div>
       application
@@ -9,4 +9,4 @@ const Application = () => {
   )
 }
 
-export default Application
+export default Applications
