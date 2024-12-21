@@ -7,7 +7,7 @@ import ApplyJob from './pages/ApplyJob';
 
 const App = () => {
   return (
-    <div className='text-blue-500 text-4xl text-center'>
+    <div>
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/apply-job/:id' element={<ApplyJob />} />
